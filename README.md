@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Pao</h1>
-<h3 align="center">Web Developer & Team Player</h3>
+<h3 align="center">Leader | Web Developer | Team Player</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
